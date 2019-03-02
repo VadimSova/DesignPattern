@@ -1,4 +1,4 @@
-package creational.builder.Course.codeBuilder;
+package creational.builder.course.codeBuilder;
 
 public class PizzaBuilderDemo_MAIN {
     public static void main(String[] args) {

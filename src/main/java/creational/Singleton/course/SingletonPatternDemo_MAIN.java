@@ -1,4 +1,4 @@
-package creational.Singleton.Course;
+package creational.Singleton.course;
 
 public class SingletonPatternDemo_MAIN {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package creational.builder.Course.codeBuilder;
+package creational.builder.course.codeBuilder;
 
 public class SpicyPizzaBuilder extends PizzaBuilder {
     public void buildDough() {

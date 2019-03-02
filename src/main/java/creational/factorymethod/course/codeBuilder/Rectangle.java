@@ -1,4 +1,4 @@
-package creational.factorymethod.course.codeBuilder;
+package creational.factorymethod.Course.codeBuilder;
 
 public class Rectangle implements Shape {
 

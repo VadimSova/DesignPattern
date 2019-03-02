@@ -1,4 +1,4 @@
-package creational.builder.Course.codeBuilder;
+package creational.builder.course.codeBuilder;
 
 public abstract class PizzaBuilder {
     protected Pizza pizza;

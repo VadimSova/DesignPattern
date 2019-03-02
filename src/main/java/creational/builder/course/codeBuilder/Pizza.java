@@ -1,4 +1,4 @@
-package creational.builder.Course.codeBuilder;
+package creational.builder.course.codeBuilder;
 
 public class Pizza {
     private String dough;

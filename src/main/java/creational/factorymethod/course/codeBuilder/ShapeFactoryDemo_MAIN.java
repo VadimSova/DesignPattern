@@ -1,4 +1,4 @@
-package creational.factorymethod.Course.codeBuilder;
+package creational.factorymethod.course.codeBuilder;
 
 public class ShapeFactoryDemo_MAIN {
     public static void main(String[] args) {

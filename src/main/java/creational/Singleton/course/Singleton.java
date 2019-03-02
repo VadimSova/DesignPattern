@@ -1,4 +1,4 @@
-package creational.Singleton.Course;
+package creational.Singleton.course;
 
 public class Singleton {
     private Singleton() {

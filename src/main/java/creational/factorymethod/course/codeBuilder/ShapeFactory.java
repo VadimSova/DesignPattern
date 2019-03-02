@@ -1,4 +1,4 @@
-package creational.factorymethod.Course.codeBuilder;
+package creational.factorymethod.course.codeBuilder;
 
 public class ShapeFactory {
     public Shape createShape(String type){
